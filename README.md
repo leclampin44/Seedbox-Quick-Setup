@@ -9,9 +9,8 @@
 
 sudo apt-get install wireguard
 
-'''
+```
 echo "200 plex" >> /etc/iproute2/rt_tables
-
-'''
+```
 
 
